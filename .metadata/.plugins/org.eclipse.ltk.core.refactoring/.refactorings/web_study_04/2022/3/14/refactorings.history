@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;15_removeAttribute.jsp&apos; to &apos;15_removeAttribute.jsp&apos;&#x0D;&#x0A;- Original project: &apos;web_study_04&apos;&#x0D;&#x0A;- Destination element: &apos;15_removeAttribute.jsp&apos;&#x0D;&#x0A;- Original element: &apos;15_removeAttribute.jsp&apos;" description="Copy file" element1="WebContent/15_removeAttribute.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1648432380622" target="/web_study_04/WebContent/15_removeAttribute.jsp" units="0" version="1.0"/>
+</session>

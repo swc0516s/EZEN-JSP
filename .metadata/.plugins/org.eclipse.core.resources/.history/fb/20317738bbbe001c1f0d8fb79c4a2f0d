@@ -1,0 +1,13 @@
+package model;
+
+public class BoardBean {
+	
+	private int num;
+	private int ;
+	private int;
+	private int;
+	private String;
+	private String;
+	private String;
+	private String;
+}

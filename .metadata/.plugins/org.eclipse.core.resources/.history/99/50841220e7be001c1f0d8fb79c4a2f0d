@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<%
+		request.setCharacterEncoding("utf-8");
+	%>
+	<jsp:useBean id="boardbean" class="model.BoardBean">
+		<jsp:setProperty name="boardbean" property="*"></jsp:setProperty>
+	</jsp:useBean>
+	<%
+        BoardDAO bdao = new BoardDAO();
+        String pass = bdao.getPass(boardbean.getNum());//num을 기준으로 패스워드값 얻어옴
+ 
+</body>
+</html>

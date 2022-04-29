@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;web_study_13_board/WebContent/BoardWriterProc.jsp&apos; to &apos;BoardWriteProc.jsp&apos;" description="Rename resource &apos;BoardWriterProc.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/BoardWriterProc.jsp" name="BoardWriteProc.jsp" stamp="1650252790250" updateReferences="true"/>
+</session>

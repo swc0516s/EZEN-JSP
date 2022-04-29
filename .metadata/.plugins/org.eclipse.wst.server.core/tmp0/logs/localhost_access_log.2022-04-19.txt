@@ -1,0 +1,5 @@
+127.0.0.1 - - [19/Apr/2022:17:21:20 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:17:21:22 +0900] "GET /web_study_13_board/BoardList.jsp HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:17:21:22 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:17:24:01 +0900] "GET /web_study_13_board/BoardList.jsp HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [19/Apr/2022:17:24:01 +0900] "GET /web_study_13_board/BoardList.jsp HTTP/1.1" 200 194

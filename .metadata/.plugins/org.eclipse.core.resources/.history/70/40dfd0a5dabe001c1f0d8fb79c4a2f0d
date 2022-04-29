@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div align="center">
+	<h2>답변글 입력하기</h2>
+	<%
+		int num = request.getParameter(num);
+	
+	//게시글 읽기에서 답변글 쓰기를 클릭하면 넘겨주는 데이터들을 받아준다.
+	%>
+</div>
+</body>
+</html>

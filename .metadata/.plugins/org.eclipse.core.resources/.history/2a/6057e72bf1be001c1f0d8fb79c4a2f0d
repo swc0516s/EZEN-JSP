@@ -1,0 +1,20 @@
+<%@page import="model.BoardBean"%>
+<%@page import="model.BoardDAO"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<%
+	BoardDAO bdao = new BoardDAO();
+	BoardBean bean = bdao.deleteBoard(num);
+	
+%>
+
+
+</body>
+</html>

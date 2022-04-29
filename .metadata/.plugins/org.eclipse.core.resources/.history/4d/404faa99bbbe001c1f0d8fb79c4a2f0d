@@ -1,0 +1,16 @@
+package model;
+
+public class BoardBean {
+	
+	private int num;
+	private String writer;
+	private String email;
+	private String subject;
+	private String password;
+	private String reg_date;
+	private int ref;
+	private int	ref_step;
+	private int ref_level;
+	private int readcount;
+	private String content;
+}
